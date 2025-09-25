@@ -1,7 +1,7 @@
 # Donation-Tracking-System-for-Non-Profit-Organizations
 📝 Description  The Donation Tracking System in Salesforce is a cloud-based solution for NGOs and charitable organizations to manage and monitor donations efficiently. It provides a public donor portal where individuals can:  Donate money securely for different causes (Orphanages, Old Age Homes, Helping Poor).  
 # 🏥 Donation Tracking System in Salesforce
-
+ Link: https://1drv.ms/v/c/4a5f174426fa9de2/EaBjT-q3KY5Bv3Y0HM6GTyYBfAbjIX0GJznBUMseEcdzsw?e=TWXWf5
 ## 📌 Project Overview
 The **Donation Tracking System** is a Salesforce-based solution designed for NGOs and charitable organizations.  
 It provides a **portal for donors** to contribute to various causes (Orphanages, Old Age Homes, Helping Poor, Blood Donation, Clothes/Item donations) while enabling **NGO staff** to manage, track, and report on donations efficiently.
