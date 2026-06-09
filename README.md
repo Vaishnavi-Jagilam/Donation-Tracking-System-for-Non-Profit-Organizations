@@ -100,8 +100,8 @@ This system is built on **Salesforce Experience Cloud, Custom Objects, and Autom
 ---
 
 ## 👨‍💻 Contributors
-- **Project Lead & Developer:** [Your Name]
-- **Mentor/Guide:** [Guide/Professor Name, if applicable]
+- **Project Lead & Developer:** [Vaishnavi]
+
 
 ---
 
